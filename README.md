@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cons54
 - 👀 I’m interested in reading various topics
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on learning technologies
+- 🌱 I’m currently learning Git and Java
+- 💞️ I’m looking to collaborate on ..umm thinking
 - 📫 How to reach me: email me 
 
 <!---
